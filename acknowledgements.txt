@@ -1,0 +1,11 @@
+This website is the copywrite of Yefren Nye, please contact the website author if you have any comments or queries.
+
+This website owes its inspiration to, and draws on data from the locations index of:
+
+Durrant, Stephen, Wai-yee Li, and David Schaberg. Zuo Tradition / Zuozhuan: Commentary on the “Spring and Autumn Annals.” University of Washington Press, 2016.
+
+Material from that work is reproduced here strictly for non-commercial purposes. This website has been created as an educational tool for those interested in the world of Spring & Autumn China and will remain free to use.
+
+Credit for the GMRT basemap layer goes to:
+
+Ryan, W. B. F., S.M. Carbotte, J. Coplan, S. O'Hara, A. Melkonian, R. Arko, R.A. Weissel, V. Ferrini, A. Goodwillie, F. Nitsche, J. Bonczkowski, and R. Zemsky (2009), Global Multi-Resolution Topography (GMRT) synthesis data set, Geochem. Geophys. Geosyst., 10, Q03014, doi:10.1029/2008GC002332.
